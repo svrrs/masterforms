@@ -1,0 +1,38 @@
+# dependencies
+node_modules/
+
+# build output and caches
+dist/
+build/
+*.tsbuildinfo
+.vite/
+.cache/
+
+# tests
+coverage/
+test-results/
+playwright-report/
+blob-report/
+
+# env and local secrets
+.env
+.env.*
+!.env.example
+mise.local.toml
+
+# logs
+*.log
+logs/
+
+# os
+.DS_Store
+Thumbs.db
+
+# editors
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp
+
+# claude local settings
+.claude/settings.local.json*
