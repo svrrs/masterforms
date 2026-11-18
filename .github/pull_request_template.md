@@ -8,4 +8,4 @@
 
 ## Testing
 
-<!-- How you checked it works, e.g. `mise run check`, manual steps. -->
+<!-- How you checked it works, e.g. `mise check`, manual steps. -->
